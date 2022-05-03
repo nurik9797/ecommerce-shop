@@ -96,12 +96,7 @@
                                     <li class="nav-item">
                                         <a data-scroll-nav="0" href="#service">Services</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a data-scroll-nav="0" href="#showcase">Portfolio</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a data-scroll-nav="0" href="#team">Team</a>
-                                    </li>
+                                   
                                     <li class="nav-item">
                                         <a data-scroll-nav="0" href="#blog">Blog</a>
                                     </li>
