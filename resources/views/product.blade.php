@@ -1003,7 +1003,7 @@
                                            <i class="lni-phone-handset"></i>
                                        </div>
                                        <div class="info-content">
-                                           <p>+88 1234 56789</p>
+                                           <p>+996 778 282 292</p>
                                        </div>
                                    </div> <!-- single info -->
                                </li>
@@ -1023,7 +1023,7 @@
                                            <i class="lni-home"></i>
                                        </div>
                                        <div class="info-content">
-                                           <p>203, Envato Labs, Behind Alis Steet,Australia</p>
+                                           <p>87/2, Bishkek city, Dzhukeev str.</p>
                                        </div>
                                    </div> <!-- single info -->
                                </li>
@@ -1082,9 +1082,9 @@
                            </a>
                            <p class="mt-10">Gravida nibh vel velit auctor aliquetn quibibendum auci elit cons equat ipsutis sem nibh id elit.</p>
                            <ul class="footer-social mt-25">
-                               <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                               <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                               <li><a href="#"><i class="lni-instagram"></i></a></li>
+                               <li><a href="https://www.facebook.com/"><i class="lni-facebook-filled"></i></a></li>
+                               <li><a href="https://twitter.com/?lang=en"><i class="lni-twitter-original"></i></a></li>
+                               <li><a href="https://www.instagram.com/?hl=en"><i class="lni-instagram"></i></a></li>
                            </ul>
                        </div> <!-- footer logo -->
                    </div>
@@ -1120,8 +1120,8 @@
                                    <div class="single-footer-info mt-20">
                                        <span>Phone :</span>
                                        <div class="footer-info-content">
-                                           <p>+88123 4567 890</p>
-                                           <p>+88123 4567 890</p>
+                                           <p>+996772 123 448</p>
+                                           <p>+996772 112 222</p>
                                        </div>
                                    </div> <!-- single footer info -->
                                </li>
@@ -1138,7 +1138,7 @@
                                    <div class="single-footer-info mt-20">
                                        <span>Address :</span>
                                        <div class="footer-info-content">
-                                           <p>5078 Jensen Key, Port Kaya, WV 73505</p>
+                                           <p>87/2 Dzhukeev P., Tokaev, WV 73505</p>
                                        </div>
                                    </div> <!-- single footer info -->
                                </li>
@@ -1151,7 +1151,7 @@
                <div class="row">
                    <div class="col-lg-12">
                        <div class="copyright text-center">
-                           <p>Crafted by <a href="https://uideck.com" rel="nofollow">UIdeck</a></p>
+                           <p>Crafted by <a href="https://uideck.com" rel="nofollow">Unknow</a></p>
                        </div> <!-- copyright -->
                    </div>
                </div> <!-- row -->
