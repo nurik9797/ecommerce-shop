@@ -657,7 +657,7 @@
                <div class="col-lg-6">
                    <div class="services-left mt-45">
                        <div class="services">
-                           <img src="assets/images/services/services.jpg" alt="">
+                           <img src="assets/images/services/services.jpg  " height =495 alt="">
                            <a href="#" class="main-btn mt-30">Read More <i class="lni-chevron-right"></i></a>
                        </div> <!-- services btn -->
                    </div> <!-- services left -->
@@ -688,7 +688,7 @@
                                </div> <!-- single services -->
                            </div>
                            <div class="col-md-6 col-sm-8">
-                               <div class="single-services text-center mt-30">
+                               <div class="single-services text-center  ">
                                    <div class="services-icon">
                                        <i class="lni-customer"></i>
                                    </div>
@@ -707,6 +707,7 @@
                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm od tempor.</p>
                                    </div>
                                </div> <!-- single services -->
+                               
                            </div>
                        </div> <!-- row -->
                    </div> <!-- services right -->
@@ -754,7 +755,7 @@
 
    <!--====== TEAM PART START ======-->
    
-   <section id="team" class="team-area pt-125 pb-130">
+   {{-- <section id="team" class="team-area pt-125 pb-130"> 
        <div class="container">
            <div class="row justify-content-center">
                <div class="col-lg-6">
@@ -835,7 +836,7 @@
                </div>
            </div> <!-- row -->
        </div> <!-- container -->
-   </section>
+   </section> 
    
    <!--====== TEAM PART ENDS ======-->
 
@@ -870,7 +871,7 @@
                </div>
            </div> <!-- row -->
        </div> <!-- container -->
-   </section>
+   </section> --}}
    
    <!--====== TESTIMONIAL PART ENDS ======-->
 
@@ -1003,7 +1004,7 @@
                                            <i class="lni-phone-handset"></i>
                                        </div>
                                        <div class="info-content">
-                                           <p>+996 778 282 292</p>
+                                           <a href="+996 773 123 213">+996 773 123 213</a>
                                        </div>
                                    </div> <!-- single info -->
                                </li>
@@ -1083,12 +1084,12 @@
                            <p class="mt-10">Gravida nibh vel velit auctor aliquetn quibibendum auci elit cons equat ipsutis sem nibh id elit.</p>
                            <ul class="footer-social mt-25">
                                <li><a href="https://www.facebook.com/"><i class="lni-facebook-filled"></i></a></li>
-                               <li><a href="https://twitter.com/?lang=en"><i class="lni-twitter-original"></i></a></li>
-                               <li><a href="https://www.instagram.com/?hl=en"><i class="lni-instagram"></i></a></li>
+                               <li><a href="https://twitter.com/"><i class="lni-twitter-original"></i></a></li>
+                               <li><a href="https://www.instagram.com/"><i class="lni-instagram"></i></a></li>
                            </ul>
                        </div> <!-- footer logo -->
                    </div>
-                   <div class="col-lg-3 col-md-4 col-sm-5">
+                   {{-- <div class="col-lg-3 col-md-4 col-sm-5">
                        <div class="footer-link mt-50">
                            <h5 class="f-title">Services</h5>
                            <ul>
@@ -1099,7 +1100,7 @@
                                <li><a href="#">Poster Design</a></li>
                            </ul>
                        </div> <!-- footer link -->
-                   </div>
+                   </div> --}}
                    <div class="col-lg-2 col-md-3 col-sm-5">
                        <div class="footer-link mt-50">
                            <h5 class="f-title">Help</h5>
@@ -1120,8 +1121,8 @@
                                    <div class="single-footer-info mt-20">
                                        <span>Phone :</span>
                                        <div class="footer-info-content">
-                                           <p>+996772 123 448</p>
-                                           <p>+996772 112 222</p>
+                                           <a href="+996 772 123 448">+996 772 123 448</a>
+                                           <a href="+996 772 112 222">+996 772 112 222</a>
                                        </div>
                                    </div> <!-- single footer info -->
                                </li>
@@ -1151,7 +1152,7 @@
                <div class="row">
                    <div class="col-lg-12">
                        <div class="copyright text-center">
-                           <p>Crafted by <a href="https://uideck.com" rel="nofollow">Unknow</a></p>
+                           <p>Crafted by <a href="https://github.com/nurik9797/" rel="nofollow">Unknow</a></p>
                        </div> <!-- copyright -->
                    </div>
                </div> <!-- row -->
