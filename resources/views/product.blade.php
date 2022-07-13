@@ -739,13 +739,13 @@
                    <div class="showcase-active mt-65">
                        <div class="single-showcase">
                            <img src="assets/images/showcase/t-1.jpg" alt="Testimonial">
-                           <a href="#" class="main-btn">Full Preview</a>
+                           {{-- <a href="#" class="main-btn">Full Preview</a> --}}
                        </div> <!-- single showcase -->
                        <div class="single-showcase">
                            <img src="assets/images/showcase/t-2.jpg" alt="Testimonial">
-                           <a href="#" class="main-btn">Full Preview</a>
+                           {{-- <a href="#" class="main-btn">Full Preview</a> --}}
                        </div> <!-- single showcase -->
-                   </div> <!-- showcase active -->
+                   </div> <!-- showcase active -->  
                </div>
            </div> <!-- row -->
        </div> <!-- container -->
